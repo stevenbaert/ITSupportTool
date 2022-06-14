@@ -1,8 +1,8 @@
 # ITSupportTool
 Swiss army knife which is a GUI in front of frequently used Powershell tools.
 
-The idea is that you have one tool which does it all: query AD group memberships, add in bulk, connect to computer, see software, see what software is deployed to it via Intune, MECM. That without needing to leave the console.
-Since it is Powershell based any action can be added.
+The idea is that you have one tool which does it all: query AD group memberships, add in bulk, connect to computer, see software, see what software is deployed to it via Intune, MECM etc. 
+That without needing to leave the console.
 
 Note that this is a vastly slimmed down version (meant to share as Open Source) of a production version. Many production feature versions should be build into this free version (f.e. VMWare Horizon, Azure Virtual Desktop etc)
 
